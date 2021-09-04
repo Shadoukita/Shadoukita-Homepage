@@ -23,9 +23,9 @@ a:hover { color: #0fa0ce; }
 /* Custom Modesta emojis */
 .alexcoffee { background-image: url('../images/AlexCoffee.png'); }
 .alexnoted { background-image: url('../images/AlexNoted.png'); }
-.hatkidpeace { background-image: url('https://gremagol.xyz/assets/images/HatKidPeace.png'); }
-.hatkidwink { background-image: url('https://gremagol.xyz/assets/images/HatKidWink.png'); }
-.hatkidcheer { background-image: url('https://gremagol.xyz/assets/images/HatKidCheer.gif'); }
+.zerotwo { background-image: url('../images/ZeroTwo.gif'); }
+.kannahello { background-image: url('../images/KannaHello.png'); }
+.rainbowdance { background-image: url('../images/RainbowDance.gif'); }
 .norway {
   background-image: url('https://twemoji.maxcdn.com/2/svg/1f1f3-1f1f4.svg');
   vertical-align: -.3em;
